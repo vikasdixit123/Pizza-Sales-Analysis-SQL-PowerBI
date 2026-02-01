@@ -27,4 +27,4 @@ The main goal is to understand sales performance, customer behavior, and product
 ## 🗂 Project Structure
 
 
-## 🗂 Project Structure
+
