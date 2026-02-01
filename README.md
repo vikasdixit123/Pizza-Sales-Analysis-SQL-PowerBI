@@ -1,6 +1,5 @@
-# Pizza-Sales-Analysis-SQL-PowerBI
-# 🍕 Pizza Sales Analysis Dashboard (SQL + Power BI)
 
+# 🍕 Pizza Sales Analysis Dashboard (SQL + Power BI)
 ## 📌 Project Overview
 This project focuses on analyzing pizza sales data using SQL and Power BI.  
 The main goal is to understand sales performance, customer behavior, and product trends to support business decision-making.
@@ -24,5 +23,8 @@ The main goal is to understand sales performance, customer behavior, and product
 - Classic category generates maximum revenue
 - Large size pizzas have the highest sales share
 - Certain pizzas contribute minimum revenue and orders
+
+## 🗂 Project Structure
+
 
 ## 🗂 Project Structure
