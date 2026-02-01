@@ -23,8 +23,3 @@ The main goal is to understand sales performance, customer behavior, and product
 - Classic category generates maximum revenue
 - Large size pizzas have the highest sales share
 - Certain pizzas contribute minimum revenue and orders
-
-## 🗂 Project Structure
-
-
-
